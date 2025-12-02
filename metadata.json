@@ -1,0 +1,5 @@
+{
+  "name": "SmartLocker Admin",
+  "description": "A modern dashboard for managing RFID smart lockers, users, and activity logs.",
+  "requestFramePermissions": []
+}
